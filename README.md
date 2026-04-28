@@ -1,17 +1,14 @@
-# ets
+# Street Damage Reporter (FixMyRoad)
 
-A new Flutter project.
+## Link demo youtube
+https://youtu.be/Z4hfOE8KRdk
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Tampilan Aplikasi
+<img width="264" height="521" alt="image" src="https://github.com/user-attachments/assets/9ddd8568-408c-47ac-be18-f15d982be08b" />
 
-A few resources to get you started if this is your first Flutter project:
+## Login page
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+<img width="297" height="499" alt="image" src="https://github.com/user-attachments/assets/341313c0-d352-47cf-9eb1-0a409e1277b3" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
