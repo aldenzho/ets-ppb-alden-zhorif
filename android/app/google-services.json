@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317105168007",
+    "project_id": "fir-ets-c4afb",
+    "storage_bucket": "fir-ets-c4afb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317105168007:android:28b996ad4ccfe14438e222",
+        "android_client_info": {
+          "package_name": "com.example.ets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTJqyMiCsoOStM_SU05TP5TdOb6mdqYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
